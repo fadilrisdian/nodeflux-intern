@@ -14,6 +14,7 @@ streamlit run App.py
 ### Build application
 ```
 git clone https://github.com/fadilrisdian/streamlit-car-counting
-docker build ./
-docker run (image id)
+cd streamlit-car-counting
+docker build -t car-count:latest .
+docker run -p 8501:8501 car-count:latest
 ```
