@@ -1,4 +1,4 @@
-# nodeflux-intern
+# Nodeflux Internship Task 1
 
 ![Screenshot from 2022-08-22 10-43-50](https://user-images.githubusercontent.com/105907083/185834315-90fb53e6-67b4-41aa-bf60-bd5e8206700d.png)
 
